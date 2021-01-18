@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\3.Gün\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache

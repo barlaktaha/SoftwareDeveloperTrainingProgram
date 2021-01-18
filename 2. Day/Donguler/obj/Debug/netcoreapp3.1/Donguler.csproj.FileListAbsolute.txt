@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache

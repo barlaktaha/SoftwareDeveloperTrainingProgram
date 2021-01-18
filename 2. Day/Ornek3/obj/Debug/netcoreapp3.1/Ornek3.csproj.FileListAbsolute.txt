@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.exe
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.deps.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.runtimeconfig.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\bin\Debug\netcoreapp3.1\Ornek3.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek3\obj\Debug\netcoreapp3.1\Ornek3.genruntimeconfig.cache

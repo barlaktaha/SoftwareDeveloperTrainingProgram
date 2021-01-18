@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.exe
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.deps.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.runtimeconfig.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\bin\Debug\netcoreapp3.1\Ornek4.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\Ornek4\Ornek4\obj\Debug\netcoreapp3.1\Ornek4.genruntimeconfig.cache

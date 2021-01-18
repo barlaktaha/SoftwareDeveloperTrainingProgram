@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Taha\Desktop\Software\YazilimGelistiriciKampi\ornekler\2.Gün\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache
