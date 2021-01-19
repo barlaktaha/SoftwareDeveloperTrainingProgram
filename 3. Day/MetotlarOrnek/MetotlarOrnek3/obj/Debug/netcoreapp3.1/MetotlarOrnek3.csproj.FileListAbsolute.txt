@@ -1,0 +1,4 @@
+C:\Users\Taha\Desktop\Software\SoftwareDeveloperTrainingProgram\3. Day\MetotlarOrnek\MetotlarOrnek3\obj\Debug\netcoreapp3.1\MetotlarOrnek3.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Software\SoftwareDeveloperTrainingProgram\3. Day\MetotlarOrnek\MetotlarOrnek3\obj\Debug\netcoreapp3.1\MetotlarOrnek3.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Software\SoftwareDeveloperTrainingProgram\3. Day\MetotlarOrnek\MetotlarOrnek3\obj\Debug\netcoreapp3.1\MetotlarOrnek3.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Software\SoftwareDeveloperTrainingProgram\3. Day\MetotlarOrnek\MetotlarOrnek3\obj\Debug\netcoreapp3.1\MetotlarOrnek3.csproj.CoreCompileInputs.cache
