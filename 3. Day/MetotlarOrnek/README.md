@@ -1,4 +1,4 @@
-#METHODS
+# METHODS
 
 ### Parameters methods
 ### Default methods
