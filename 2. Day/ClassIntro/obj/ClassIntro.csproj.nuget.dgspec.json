@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taha\\Desktop\\Software\\YazilimGelistiriciKampi\\ornekler\\2.Gün\\ClassIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\Taha\\Desktop\\Software\\SoftwareDeveloperTrainingProgram\\2. Day\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taha\\Desktop\\Software\\YazilimGelistiriciKampi\\ornekler\\2.Gün\\ClassIntro\\ClassIntro.csproj": {
+    "C:\\Users\\Taha\\Desktop\\Software\\SoftwareDeveloperTrainingProgram\\2. Day\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taha\\Desktop\\Software\\YazilimGelistiriciKampi\\ornekler\\2.Gün\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\Taha\\Desktop\\Software\\SoftwareDeveloperTrainingProgram\\2. Day\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\Taha\\Desktop\\Software\\YazilimGelistiriciKampi\\ornekler\\2.Gün\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\Taha\\Desktop\\Software\\SoftwareDeveloperTrainingProgram\\2. Day\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\Taha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taha\\Desktop\\Software\\YazilimGelistiriciKampi\\ornekler\\2.Gün\\ClassIntro\\obj\\",
+        "outputPath": "C:\\Users\\Taha\\Desktop\\Software\\SoftwareDeveloperTrainingProgram\\2. Day\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
