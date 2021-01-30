@@ -1,0 +1,10 @@
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.Form1.resources
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.Properties.Resources.resources
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\bin\Debug\DraughtsDemo.exe.config
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\bin\Debug\DraughtsDemo.exe
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\bin\Debug\DraughtsDemo.pdb
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.exe
+C:\Users\Taha\Desktop\DraughtsDemo\DraughtsDemo\obj\Debug\DraughtsDemo.pdb
