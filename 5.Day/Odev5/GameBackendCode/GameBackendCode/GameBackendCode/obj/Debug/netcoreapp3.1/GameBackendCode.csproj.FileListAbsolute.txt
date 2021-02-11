@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.exe
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.deps.json
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.runtimeconfig.json
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.dll
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\bin\Debug\netcoreapp3.1\GameBackendCode.pdb
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.AssemblyInfo.cs
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.dll
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.pdb
+C:\Users\Taha\Desktop\GameBackendCode\GameBackendCode\GameBackendCode\obj\Debug\netcoreapp3.1\GameBackendCode.genruntimeconfig.cache
