@@ -1,0 +1,13 @@
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.exe
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.deps.json
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.json
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\Taha\Desktop\Yazılım Geliştirici Kampı\7.Day\Odev1\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache
